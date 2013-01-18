@@ -4,9 +4,9 @@ Basic boilerplate for getting started with [Flask](http://flask.pocoo.org/), a b
 
 Getting Started
 -------
-set up virtualenv
-pip install flask
-python runserver.py
+* set up virtualenv
+* pip install flask
+* python runserver.py
 
 More documentation on Flask [here](http://flask.pocoo.org/docs/).
 
