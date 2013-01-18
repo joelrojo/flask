@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}Inner Page{% endblock %}
+{% block content %}
+
+<div class="container">
+<h1>Inner Page</h1>
+  <ul>
+    <li><a href="{{ url_for('index') }}">back to index</a></li>
+  </ul>
+</div>
+
+{% endblock %}
